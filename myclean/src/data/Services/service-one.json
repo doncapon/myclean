@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1, 
+    "title": "Office Cleaning",
+    "shortDesc": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant . Animals raised organically are", 
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta nibh vel diam. </p>   <p>Aed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+
+    "thumb": "service1.jpg",
+    "btnText": "Read More",
+    "singleThumb": "service_single.jpg"
+  },
+  {
+    "id": 2, 
+    "title": "House Cleaning",
+    "shortDesc": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant . Animals raised organically are",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta nibh vel diam. </p>   <p>Aed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "thumb": "service2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "service_single.jpg"
+  },
+  {
+    "id": 3, 
+    "title": "Carpet Cleaning",
+    "shortDesc": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant . Animals raised organically are",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta nibh vel diam. </p> <p>Aed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi </p>",
+    "thumb": "service3.jpg",
+    "btnText": "Read More",
+    "singleThumb": "service_single.jpg"
+  },
+  {
+    "id": 4, 
+    "title": "Pool Cleaning",
+    "shortDesc": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant . Animals raised organically are",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta nibh vel diam. </p> <p>Aed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi </p>",
+    "thumb": "service4.jpg",
+    "btnText": "Read More",
+    "singleThumb": "service_single.jpg"
+  },
+  {
+    "id": 5, 
+    "title": "House Cleaning",
+    "shortDesc": "Organically grown crops tend use natural fertilizers like manure to improve growth to plant . Animals raised organically are",
+    "description": "<p>Lorem ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta ligula nibh vel congue diam. Sed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi, porta nibh vel diam. </p>   <p>Aed ligula erat molestie cras morbi in facilisis eu .ipsum dolor sit amet, in urna molestie tristique.Cong erment sed at facilisis lacinia aliquam fusce wisi</p>",
+    "thumb": "service2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "service_single.jpg"
+  }
+ 
+]

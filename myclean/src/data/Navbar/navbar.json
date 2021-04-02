@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "subMenu": [
+      {
+        "id": 1.1,
+        "title": "Home One",
+        "link": "/home"
+      },
+      {
+        "id": 1.2,
+        "title": "Home Two",
+        "link": "/home-two"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Services",
+    "link": "/service",
+    "subMenu": [
+      {
+        "title": "Office Cleaning",
+        "link": "/service/office-cleaning?id=1"
+      },
+      {
+        "title": "House Cleaning",
+        "link": "/service/house-cleaning?id=2"
+      },
+      {
+        "title": "Carpet Cleaning",
+        "link": "/service/carpet-cleaning?id=3"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Gallery",
+    "link": "/gallery",
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "Blog",
+    "link": "/blog",
+    "subMenu": [
+      {
+        "title": "Blog Page",
+        "link": "/blog"
+      },
+      {
+        "title": "Single Page",
+        "link": "/blog/how-to-remove-coffee-stain?id=3"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Team",
+    "link": "/team"
+  },
+  {
+    "id": 7,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]

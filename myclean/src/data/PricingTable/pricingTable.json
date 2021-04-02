@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "planIcon": "pricing_icon_2.png",
+    "planName": "Onetime plan",
+    "currencyType": "$",
+    "planPrice": "70",
+    "subscribePlan": "mo",
+    "buttonLink": "/contact",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ]
+  },
+  {
+    "id": 2,
+    "planIcon": "pricing_icon_1.png",
+    "planName": "Regular plan",
+    "currencyType": "$",
+    "planPrice": "80",
+    "subscribePlan": "mo",
+    "buttonLink": "/contact",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ]
+  },
+  {
+    "id": 3,
+    "planIcon": "pricing_icon_3.png",
+    "planName": "Deep plan",
+    "currencyType": "$",
+    "planPrice": "90",
+    "subscribePlan": "mo",
+    "buttonLink": "/contact",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ]
+  }
+]

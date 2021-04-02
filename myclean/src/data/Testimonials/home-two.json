@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "quote": "Lorem ipsum dolor sit ametet verear info omnr noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts",
+    "author": "John Watson",
+    "designation": "CEO At Facebook",
+    "authorThumb": "tes3.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "Lorem ipsum dolor sit ametet verear info omnr noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts",
+    "author": "Adam Crew",
+    "designation": "CEO At Facebook",
+    "authorThumb": "tes2.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "Lorem ipsum dolor sit ametet verear info omnr noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts",
+    "author": "Deo Crew",
+    "designation": "Manager",
+    "authorThumb": "tes1.jpg"
+  },
+  {
+    "id": 4,
+    "quote": "Lorem ipsum dolor sit ametet verear info omnr noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts",
+    "author": "Deo Crew",
+    "designation": "Manager",
+    "authorThumb": "tes1.jpg"
+  }
+]
