@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Adam Gilcrist ",
+    "img": "team-1.jpg",
+    "designation": "Founder",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com"
+  },
+  {
+    "id": 2,
+    "name": "Kristen Crew ",
+    "img": "team-2.jpg",
+    "designation": "Co Founder",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com"
+  },
+  {
+    "id": 3,
+    "name": "Robert Doe ",
+    "img": "team-3.jpg",
+    "designation": "Chairman",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com"
+  },
+  {
+    "id": 4,
+    "name": "Jon Gilcrist ",
+    "img": "team-4.jpg",
+    "designation": "Driver",
+    "facebookUrl": "//www.facebook.com",
+    "twitterUrl": "//www.twitter.com",
+    "linkedinUrl": "//www.facebook.com"
+  }
+ 
+]

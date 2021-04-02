@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "smallTitle": "klinarmen",
+    "title": "Clean place sparkle",
+    "description": "We keep Your World Fresh & Sparkling Clean.",
+    "bg": "slider1.jpg",
+    "btnText": "Get A Quote",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2,
+    "smallTitle": "klinarmen",
+    "title": "Clean place sparkle",
+    "description": "We keep Your World Fresh & Sparkling Clean.",
+    "bg": "slider2.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 3,
+    "smallTitle": "klinarmen",
+    "title": "Clean place sparkle",
+    "description": "We keep Your World Fresh & Sparkling Clean.",
+    "bg": "slider1.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  }
+ 
+]

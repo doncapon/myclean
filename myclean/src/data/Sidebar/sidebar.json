@@ -1,0 +1,29 @@
+{
+  "categories" : [
+    {
+      "id": 1,
+      "categoryName": "Restaurant Cleaning",
+      "catLink": "#/"
+    },
+    {
+      "id": 2,
+      "categoryName": "Carpet Cleaning",
+      "catLink": "#/"
+    },
+    {
+      "id": 3,
+      "categoryName": "House Cleaning",
+      "catLink": "#/"
+    },
+    {
+      "id": 4,
+      "categoryName": "Pool Cleaning",
+      "catLink": "#/"
+    },
+    {
+      "id": 5,
+      "categoryName": "Car Cleaning",
+      "catLink": "#/"
+    }
+  ]
+}

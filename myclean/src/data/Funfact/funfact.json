@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "counterNumber": 1575,
+    "counterText": "Happy Clients",
+    "counterIcon": "icon_genius"
+  },
+  {
+    "id": 2,
+    "counterNumber": 2375,
+    "counterText": "Project Done",
+    "counterIcon": "icon_building"
+  },
+  {
+    "id": 3,
+    "counterNumber": 3474,
+    "counterText": "Awards Win",
+    "counterIcon": "icon_heart_alt"
+  },
+  {
+    "id": 4,
+    "counterNumber": 4437,
+    "counterText": "Cups Coffee",
+    "counterIcon": "arrow_move"
+  }
+]
