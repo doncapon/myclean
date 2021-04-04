@@ -14,7 +14,7 @@ const About = () => {
     return(
         <Fragment>
             <MetaTags>
-              <title>klinarmen | About</title>
+              <title>UBW GLOBAL RESOURCES LIMITED | About</title>
               <meta
                 name="description"
                 content="Cleaning  React JS Template."

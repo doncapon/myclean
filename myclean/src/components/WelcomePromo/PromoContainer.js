@@ -10,8 +10,8 @@ function PromoContainer() {
             <div className="container">
                 {/* Start: Heading */}
                 <SectionTitle 
-                    title="Welcome to klinarmen" 
-                    subtitle="Subjects to ecstatic children he could ye leave up as built match. Dejection agreeable attention set suspected led offending dmitting an performed supposing by garden agreed matter." 
+                    title="Welcome To UBW GLOBAL RESOURCES LIMITED" 
+                    subtitle="Our standard is first-class" 
                 />
 
                 <div className="row service_list_warp">
