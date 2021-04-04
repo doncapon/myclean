@@ -2,19 +2,7 @@
   {
     "id": 1,
     "title": "Home",
-    "link": "/",
-    "subMenu": [
-      {
-        "id": 1.1,
-        "title": "Home One",
-        "link": "/home"
-      },
-      {
-        "id": 1.2,
-        "title": "Home Two",
-        "link": "/home-two"
-      }
-    ]
+    "link": "/"
   },
   {
     "id": 2,
