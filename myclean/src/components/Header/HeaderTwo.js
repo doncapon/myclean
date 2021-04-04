@@ -9,16 +9,16 @@ const Header = () => {
             <div className="row">
                 <div className="col-md-3 col-sm-12">
                     <div className="header_text text-left">
-                        <h6>klinarmen Cleaning Company</h6>
+                        <h6>UBW GLOBAL RESOURCES LIMITED</h6>
                     </div>
                 </div>
-                <div className="col-md-4 col-sm-12">
+                {/* <div className="col-md-4 col-sm-12">
                     <div className="header_wrapper_1 text-left">
                         <ul>
                             <li><i className="icon_clock_alt"></i>Opening Hours: 8:00AM - 6:00PM</li>
                         </ul>
                     </div>
-                </div>
+                </div> */}
  
                 <div className="col-md-2 col-sm-12">
                     <div className="header_social">

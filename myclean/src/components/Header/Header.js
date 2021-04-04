@@ -17,11 +17,11 @@ const Header = () => {
                     </Link>
                 </div>
                 <div className="header_top_location">
-                    <div className="top_location">
+                    {/* <div className="top_location">
                         <i className="icon_clock_alt"></i>
                         <p>Opening Hours </p>
                         <span> 8:00AM - 6:00PM</span>
-                    </div>
+                    </div> */}
                     <div className="top_location">
                         <i className="icon_phone"></i>
                         <p>Contact Us</p>
