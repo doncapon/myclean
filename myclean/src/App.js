@@ -12,6 +12,7 @@ import Gallery from "./pages/Gallery";
 import About from "./pages/About"; 
 import Team from "./pages/Team"; 
 import Contact from "./pages/Contact"; 
+import Reservation from "./pages/Reservation"; 
 import NotFound from "./pages/NotFound"; 
 
 
@@ -56,6 +57,10 @@ function App() {
           <Route
             path={`${process.env.PUBLIC_URL + "/gallery"}`}
             component={Gallery}
+          />
+          <Route
+            path={`${process.env.PUBLIC_URL + "/reservation"}`}
+            component={Reservation}
           />
           <Route
             path={`${process.env.PUBLIC_URL + "/team"}`}
