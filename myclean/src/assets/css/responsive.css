@@ -45,7 +45,9 @@
   .contact_page .contact_det ul li {
     width: 40%;
   }
-
+  .reservation_page .reservation_det ul li {
+    width: 40%;
+  }
   .single_blog_page .sing_blog_text::before {
     top: 25px;
     left: 1px;
@@ -437,6 +439,9 @@ padding-left: 0px;
   .footer_contact {
     width: 25%;
   }
+  .footer_reservation {
+    width: 25%;
+  }
 
   .footer-section .col-xs-1 {
     padding-right: 10px;
@@ -484,8 +489,17 @@ padding-left: 0px;
     margin-top: 12px;
     margin-bottom: -50px;
   }
+  .reservation_det {
+    margin-top: 12px;
+    margin-bottom: -50px;
+  }
 
   .contact_page .contact_det ul li {
+    margin-left: 30px;
+    width: 39%;
+    margin-bottom: 30px;
+  }
+  .reservation_page .reservation_det ul li {
     margin-left: 30px;
     width: 39%;
     margin-bottom: 30px;
@@ -1000,6 +1014,9 @@ padding-left: 0px;
   .footer_contact {
     margin-bottom: 30px;
   }
+  .footer_reservation {
+    margin-bottom: 30px;
+  }
 
   .footer_top {
     padding-top: 68px;
@@ -1036,6 +1053,9 @@ padding-left: 0px;
   }
 
   .footer_contact_info {
+    margin-bottom: 25px;
+  }
+  .footer_reservation_info {
     margin-bottom: 25px;
   }
   .footer_social_icons {
@@ -1143,8 +1163,18 @@ padding-left: 0px;
     margin-top: 50px;
     margin-bottom: -50px;
   }
+  .reservation_det {
+    margin-top: 50px;
+    margin-bottom: -50px;
+  }
 
   .contact_page .contact_det ul li {
+    margin-left: 0px;
+    width: 100%;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .reservation_page .reservation_det ul li {
     margin-left: 0px;
     width: 100%;
     margin-bottom: 15px;
@@ -1154,7 +1184,9 @@ padding-left: 0px;
   .contact-form {
     padding: 30px 10px;
   }
-
+  .reservation-form {
+    padding: 30px 10px;
+  }
   .single-work-page {
     padding-bottom: 65px;
   }
